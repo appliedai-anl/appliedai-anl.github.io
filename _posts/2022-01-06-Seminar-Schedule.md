@@ -1,5 +1,5 @@
 ---
-title: "Speaker Series"
+title: "Seminar Schedule"
 date: 2022-01-06
 ---
 
