@@ -2,5 +2,5 @@
 title: 
 ---
 
-<img src="https://octodex.github.com/images/jetpacktocat.png"
+<img src="/assets/imgs/argonne_logo.png"
 height="300">
