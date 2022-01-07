@@ -4,6 +4,7 @@ title: Applied AI group @ Argonne National Laboratory
 author: Applied AI group
 description: Supporting website for documentation of activities, including schedule of speaker series, recording of previous talks, documentation for tutorials, of the Applied AI group at Argonne National Laboratory
   
+avatar: "/assets/imgs/header.png"
 # social links
 twitter_username: # your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username: # your-github-handle # DO NOT include the @ character, or else the build will fail!
