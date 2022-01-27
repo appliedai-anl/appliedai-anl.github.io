@@ -10,7 +10,7 @@ date: 2022-01-25
 
 ***
 
-### Dr Arun Mannodi-Kanakkithodi 
+### Dr. Arun Mannodi-Kanakkithodi 
 
 <a href="/docs/Feb9_Abstract_Bio.pdf">Download the abstract here (PDF).</a>
 
