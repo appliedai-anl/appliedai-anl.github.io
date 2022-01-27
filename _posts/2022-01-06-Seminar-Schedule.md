@@ -36,4 +36,4 @@ Nanoscience and Technology Division at Argonne, a regular attendee, presenter, a
 at the Materials Research Society (MRS) spring and fall meetings, and a co-organizer of the data
 science and machine learning workshop series as part of the NSF-funded nanoHUB.org.*
 
-<a href="../docs/Feb9_Abstract_Bio.pdf">Download abstract here</a>
+<a href="/docs/Feb9_Abstract_Bio.pdf">Download abstract here</a>
