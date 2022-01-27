@@ -1,3 +1,3 @@
 <img src="/assets/imgs/argonne_logo.png"
-height="200">
+width="400" height="200">
 
