@@ -12,7 +12,9 @@ date: 2022-01-25
 
 ### Dr Arun Mannodi-Kanakkithodi 
 
-<a href="/docs/Feb9_Abstract_Bio.pdf">Download the abstract here</a>
+<a href="/docs/Feb9_Abstract_Bio.pdf">Download the abstract here (PDF).</a>
+
+Meeting link: TBD
 
 *Arun Mannodi Kanakkithodi is an assistant professor in Materials Engineering at Purdue
 University. He received his PhD in Materials Science and Engineering from the University of
