@@ -1,7 +1,7 @@
 theme: minima
 
 title: Applied AI group @ Argonne National Laboratory
-# author: Applied AI group
+author: Name 1, Name 2
 description: Supporting website for documentation of activities, including schedule of speaker series, recording of previous talks, documentation for tutorials, of the Applied AI group at Argonne National Laboratory
   
 logo: "/assets/imgs/argonne_logo.png"
