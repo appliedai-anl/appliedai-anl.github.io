@@ -13,11 +13,12 @@
  
 ## [About us](./about-us.html)
 
+## [Seminar series](./seminars.md)
 
 ## [Tutorials](./tutorials.md)
 
 
-## [Seminar series](./seminars.md)
+
 
 
                                     
