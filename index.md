@@ -11,10 +11,10 @@
   <img src="/assets/imgs/title_logo.png" width="500" align="middle" hspace="80" />
 </p>
  
-[About us](./about-us.html).
+## [About us](./about-us.html)
 
 
-[Tutorials](./tutorials.md)
+## [Tutorials](./tutorials.md)
 
 
                                     
