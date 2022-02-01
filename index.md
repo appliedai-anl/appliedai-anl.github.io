@@ -11,7 +11,7 @@
   <img src="/assets/imgs/title_logo.png" width="500" align="middle" hspace="80" />
 </p>
  
-
+[About us](./about-us.html).
 
 
                                     
