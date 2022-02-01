@@ -17,5 +17,8 @@
 ## [Tutorials](./tutorials.md)
 
 
+## [Seminar series](./seminars.md)
+
+
                                     
 
