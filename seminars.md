@@ -4,7 +4,7 @@ date: 2022-01-25
 ---
 
 
-### 02-09-2021 : 2 PM - 3 PM CST 
+### 02-16-2021 : 2 PM - 3 PM CST 
 
 ### AI-Driven Design of High Entropy Halide Perovskite Alloys 
 
