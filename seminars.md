@@ -5,7 +5,7 @@ date: 2022-03-02
 
 ### Date and Time: 03-07-2022 ; 3 PM - 4 PM CST 
 
-### Title: Understanding trajectories: From Electron Microscopes to Atomistic Simulations
+### Title: Understanding Trajectories: From Electron Microscopes to Atomistic Simulations
 
 ### Speaker: Dr. Ayana Ghosh
 
