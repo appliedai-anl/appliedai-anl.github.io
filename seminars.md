@@ -4,13 +4,11 @@ date: 2022-03-02
 ---
 
 
-### 02-16-2022 : 2 PM - 3 PM CST 
+### Date and Time: 02-16-2022 ; 2 PM - 3 PM CST 
 
-### AI-Driven Design of High Entropy Halide Perovskite Alloys 
+### Title: AI-Driven Design of High Entropy Halide Perovskite Alloys 
 
-***
-
-### Dr. Arun Mannodi-Kanakkithodi 
+### Speaker: Dr. Arun Mannodi-Kanakkithodi 
 
 <a href="/docs/Feb9_Abstract_Bio.pdf">Download the abstract here (PDF).</a>
 
@@ -28,13 +26,11 @@ science and machine learning workshop series as part of the NSF-funded nanoHUB.o
 
 ***
 
-### 03-07-2022 : 3 PM - 4 PM CST 
+### Date and Time: 03-07-2022 ; 3 PM - 4 PM CST 
 
-### Understanding trajectories: From Electron Microscopes to Atomistic Simulations
+### Title: Understanding trajectories: From Electron Microscopes to Atomistic Simulations
 
-***
-
-### Dr. Ayana Ghosh
+### Speaker: Dr. Ayana Ghosh
 
 <a href="/docs/Mar7_Abstract_Bio.pdf">Download the abstract here (PDF).</a>
 
