@@ -4,6 +4,8 @@ date: 2022-03-02
 ---
 
 
+## Seminar 1
+
 ### Date and Time: 02-16-2022 ; 2 PM - 3 PM CST 
 
 ### Title: AI-Driven Design of High Entropy Halide Perovskite Alloys 
@@ -24,7 +26,9 @@ Nanoscience and Technology Division at Argonne, a regular attendee, presenter, a
 at the Materials Research Society (MRS) spring and fall meetings, and a co-organizer of the data
 science and machine learning workshop series as part of the NSF-funded nanoHUB.org.*
 
-***
+
+
+## Seminar 2
 
 ### Date and Time: 03-07-2022 ; 3 PM - 4 PM CST 
 
