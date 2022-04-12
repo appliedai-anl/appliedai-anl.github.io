@@ -17,6 +17,8 @@
 
 ## [Tutorials](./tutorials.md)
 
+## [Applied AI research](./appliedai_research.md)
+
 
 
 
