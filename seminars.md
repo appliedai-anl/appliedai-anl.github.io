@@ -3,6 +3,18 @@ title: "Seminar series"
 date: 2022-03-02
 ---
 
+### Date and Time: 04-25-2022 ; 3 PM - 4 PM CST 
+
+### Title: AI Applications with Spiking Neural Networks and Neuromorphic Computing
+
+### Speaker: Dr. Shruti R. Kulkarni
+
+<a href="/docs/Mar7_Abstract_Bio.pdf">Download the abstract here (PDF).</a>
+
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDFlZDc5MjYtMTZkZS00OGQ0LTg2ZDEtOWU2YmMzM2UyNWRk%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
+
+*Shruti R. Kulkarni is a research scientist at the Oak Ridge National Laboratory in the Learning Systems group. Her research spans different aspects of neuromorphic computing including algorithms, applications, simulators, and hardware codesign. She was formerly a postdoc at ORNL advised by Dr. Catherine Schuman, working on different techniques to implement learning to learn framework for neuromorphic computing. She received her PhD in 2019 from New Jersey Institute of Technology with a major in Electrical Engineering under the guidance of Dr. Bipin Rajendran. Her dissertation was on bio-inspired learning and hardware acceleration with emerging memories. She has 19 peer reviewed journal and conference publications.*
+
 ### Date and Time: 03-07-2022 ; 3 PM - 4 PM CST 
 
 ### Title: Understanding Trajectories: From Electron Microscopes to Atomistic Simulations
