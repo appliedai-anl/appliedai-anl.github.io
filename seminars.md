@@ -15,6 +15,8 @@ Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDF
 
 *Dr. Kulkarni is a research scientist at the Oak Ridge National Laboratory in the Learning Systems group. Her research spans different aspects of neuromorphic computing including algorithms, applications, simulators, and hardware codesign. She was formerly a postdoc at ORNL advised by Dr. Catherine Schuman, working on different techniques to implement learning to learn framework for neuromorphic computing. She received her PhD in 2019 from New Jersey Institute of Technology with a major in Electrical Engineering under the guidance of Dr. Bipin Rajendran. Her dissertation was on bio-inspired learning and hardware acceleration with emerging memories. She has 19 peer reviewed journal and conference publications.*
 
+***
+
 ### Date and Time: 03-07-2022 ; 3 PM - 4 PM CST 
 
 ### Title: Understanding Trajectories: From Electron Microscopes to Atomistic Simulations
