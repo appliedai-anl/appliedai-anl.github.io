@@ -3,6 +3,20 @@ title: "Seminar series"
 date: 2022-03-02
 ---
 
+### Date and Time: TBA
+
+### Title: TBA 
+
+### Speaker: TBA
+
+<a href="/docs/Apr25_Abstract.pdf">Download the abstract here (PDF).</a>
+
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDFlZDc5MjYtMTZkZS00OGQ0LTg2ZDEtOWU2YmMzM2UyNWRk%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
+
+*The bio for speaker will be announced shortly* 
+
+***
+
 ### Date and Time: 04-25-2022 ; 3 PM - 4 PM CST 
 
 ### Title: AI Applications with Spiking Neural Networks and Neuromorphic Computing
