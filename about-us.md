@@ -14,7 +14,7 @@ The Applied AI/ML @ Scientific User Facilities (SUFs) Working Group was setup ac
 
 **ATLAS**: Nathan Callahan and Jose Martinez 
 
-**CNM**: Arun Baskaran, Qunfei Zhou and Rohit Batra 
+**CNM**: Qunfei Zhou
 
  
 **Mentors**: Mathew Cherukara (APS), Brahim Mustapha (ATLAS) and Subramanian Sankaranarayanan (CNM) 
