@@ -1,8 +1,22 @@
 ---
 title: "Seminar series"
-date: 2022-03-02
+date: 2022-08-22
 ---
 
+
+### Date and Time: 08-29-2022 ; 3 PM - 4 PM CST 
+
+### Title: Autonomous experiments in the age of computing, machine learning and automation: progress and challenges
+
+### Speaker: Dr. Rama Vasudevan
+
+<a href="/docs/Aug29_Abstract.pdf">Download the abstract here (PDF).</a>
+
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZlOGU5N2ItOTMyNi00ZWI1LTk1NGMtY2YzMDU1ZjlhZmM0%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
+
+*Dr. Vasudevan is the group Leader of the Data NanoAnalytics (DNA) Group at Center for Nanophase Materials Sciences, Oak Ridge National Laboratory. His research is focused on smart, autonomous synthesis and characterization tools driven by improvements in machine learning and tight integration between theory, automation and individual instruments. He has a specific sub-focus is on applications and development of scalable reinforcement learning for scanning probe microscopy, to optimize, manipulate and better characterize ferroic materials at the nanoscale, and upgrade scanning probe microscopy from a standard characterization tool to one capable of autonomous physics discovery by connecting algorithms, edge computing and theory in end-to-end automated workflows.*
+
+***
 
 ### Date and Time: 04-25-2022 ; 3 PM - 4 PM CST 
 
