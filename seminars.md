@@ -10,7 +10,7 @@ date: 2022-11-23
 
 <a href="/docs/applied_ai_priya_panda_11_28.pdf">Download the abstract here (PDF).</a>
 
-Meeting link: [pending]
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjhiYTQ2OWYtNTY1ZS00M2YwLWIxODAtMmE0ZmEwZGU5MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
 
 *Dr. Panda is an assistant professor in the electrical engineering department at Yale University, USA. She received her B.E. and Master's degree from BITS, Pilani, India in 2013 and her PhD from Purdue University, USA in 2019. During her PhD, she interned in Intel Labs where she developed large scale spiking neural network algorithms for benchmarking the Loihi chip. She is the recipient of the 2019 Amazon Research Award, 2022 Google Research Scholar Award, 2022 DARPA Riser Award. Her research interests lie in Neuromorphic Computing, energy-efficient accelerators, and in-memory processing.*
 
