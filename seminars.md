@@ -6,7 +6,7 @@ date: 2022-11-23
 
 ### Title: Exploring Energy-Efficiency in Neural Systems with Spike-based Machine Intelligence
 
-### Speaker: Dr.Priya Panda
+### Speaker: Dr. Priya Panda
 
 <a href="/docs/applied_ai_priya_panda_11_28.pdf">Download the abstract here (PDF).</a>
 
