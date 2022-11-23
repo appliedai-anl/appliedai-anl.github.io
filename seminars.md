@@ -12,7 +12,7 @@ date: 2022-11-23
 
 Meeting link: [pending]
 
-*Dr. Panda is an assistant professor in the electrical engineering department at Yale University, USA. She received her B.E. and Master's degree from BITS, Pilani, India in 2013 and her PhD from Purdue University, USA in 2019. During her PhD, she interned in Intel Labs where she developed large scale spiking neural network algorithms for benchmarking the Loihi chip. She is the recipient of the 2019 Amazon Research Award, 2022 Google Research Scholar Award, 2022 DARPA Riser Award. Her research interests lie in Neuromorphic Computing, energy-efficient accelerators, and in-memory processing. *
+*Dr. Panda is an assistant professor in the electrical engineering department at Yale University, USA. She received her B.E. and Master's degree from BITS, Pilani, India in 2013 and her PhD from Purdue University, USA in 2019. During her PhD, she interned in Intel Labs where she developed large scale spiking neural network algorithms for benchmarking the Loihi chip. She is the recipient of the 2019 Amazon Research Award, 2022 Google Research Scholar Award, 2022 DARPA Riser Award. Her research interests lie in Neuromorphic Computing, energy-efficient accelerators, and in-memory processing.*
 
 ***
 
