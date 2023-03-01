@@ -1,7 +1,21 @@
 ---
 title: "Seminar series"
-date: 2022-11-23
+date: 2022-02-28
 ---
+### Date and Time: 03-06-2022 ; 3 PM - 4 PM CST 
+
+### Title: Accelerating mesoscale predictions via surrogate models trained by machine learning methods
+
+### Speaker: Dr. Rémi Dingreville
+
+<a href="/docs/applied_ai_remi_dingreville.pdf">Download the abstract here (PDF).</a>
+
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjhiYTQ2OWYtNTY1ZS00M2YwLWIxODAtMmE0ZmEwZGU5MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
+
+*Rémi Dingreville is a Distinguished Member of the Technical Staff at Sandia National Laboratories and staff scientist at the Center for Integrated Nanotechnologies (CINT) a DOE Office of Science user facility. His current research is at the intersection of computational materials and data sciences to understand and characterize process-structure-properties for materials reliability across scales. He leads a few research programs at Sandia focused on the discovery of resilient materials and manufacturing processes via AI-guided approaches. Rémi holds a Ph.D. in Mechanical Engineering
+from the Georgia Institute of Technology in Atlanta GA, and a B.S./M.S. in Materials Science and Engineering from École Nationale Supérieure des Techniques Avancées in France.*
+
+***
 ### Date and Time: 11-28-2022 ; 3 PM - 4 PM CST 
 
 ### Title: Exploring Energy-Efficiency in Neural Systems with Spike-based Machine Intelligence
