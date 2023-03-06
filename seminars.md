@@ -10,7 +10,7 @@ date: 2022-02-28
 
 <a href="/docs/applied_ai_remi_dingreville.pdf">Download the abstract here (PDF).</a>
 
-Meeting link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MGNjNTJiZGEtODJhMi00ZjdmLTliNjgtYzQ1ZmZkMmIyYmMw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=6a8db849-9feb-42dc-bde3-7038e4ab9113&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+Meeting link: [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNjNTJiZGEtODJhMi00ZjdmLTliNjgtYzQ1ZmZkMmIyYmMw%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%22a7cdf138-455e-41ef-b7b1-be6d67adaf95%22%7d)
 
 *Rémi Dingreville is a Distinguished Member of the Technical Staff at Sandia National Laboratories and staff scientist at the Center for Integrated Nanotechnologies (CINT) a DOE Office of Science user facility. His current research is at the intersection of computational materials and data sciences to understand and characterize process-structure-properties for materials reliability across scales. He leads a few research programs at Sandia focused on the discovery of resilient materials and manufacturing processes via AI-guided approaches. Rémi holds a Ph.D. in Mechanical Engineering
 from the Georgia Institute of Technology in Atlanta GA, and a B.S./M.S. in Materials Science and Engineering from École Nationale Supérieure des Techniques Avancées in France.*
