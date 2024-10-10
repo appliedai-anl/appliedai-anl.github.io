@@ -17,7 +17,7 @@ Prof. Emma Alexander	from Northwestern University	[Aug 12]
 
 ***
 ### 2023 List of Speakers
-Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]
+*Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]*
 Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]
 Dr. Steven Torrisi	from Toyota Research Institute	[July 10]
 Dr. Chris Rackauckas	from Massachusetts Institute of Technology	[Aug 14]
