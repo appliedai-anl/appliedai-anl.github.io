@@ -10,14 +10,16 @@ Meeting link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=
 *Victor Fung comes to Georgia Tech from Oak Ridge National Laboratory where he was a Eugene P. Wigner Fellow working in the Center for Nanophase Materials Sciences (CNMS). He obtained his B.A. in Chemistry from Cornell University and his Ph.D. in Chemistry from the University of California, Riverside. His research seeks to harness the power of computing and machine learning to accelerate the chemical discovery process, with the eventual goal of fully realizing materials by inverse design. This includes developing novel methods and tools which incorporate chemical information to model phenomena at the atomic scale, as well as design new materials from the ground up, atom-by-atom. His work also involves establishing automated, data-driven and domain-informed ecosystems for materials and chemical discovery which can be deployed on the latest supercomputers.*
 
 
+
 ***
-### 2024 List of Speakers
+### 2024 List of Past Speakers
 *Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]*
 
 *Prof. Emma Alexander	from Northwestern University	[Aug 12]*
 
+
 ***
-### 2023 List of Speakers
+### 2023 List of Past Speakers
 *Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]*
 
 *Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]*
@@ -33,6 +35,26 @@ Meeting link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=
 *Prof. Tess Smidt	Massachusetts Institute of Technology	[Nov 15]*
 
 *Prof. Aditi Krishnapriyan	from University of California, Berkeley	[Dec 11]*
+
+
+***
+### Links to Past Seminars:
+Advancing Atom-by-Atom Characterization Using Generative Networks by Pinshane Huang
+Tutorial link: [Youtube](https://www.youtube.com/watch?v=DCAHnr-yDrY)
+
+Machine Learning for Intelligent Data Collection and Analysis by Zhantao Chen
+Tutorial link: [Youtube](https://www.youtube.com/watch?v=KCjuUjARoxI)
+
+Accelerating mesoscale predictions via surrogate models trained by machine learning methods by Remi Dingreville
+Tutorial link: [Youtube](https://www.youtube.com/watch?v=pgA5yDO_r-k&t=1770s)
+
+Exploring Energy-Efficiency in Neural Systems with Spike-based Machine Intelligence by Priya Pandey
+Tutorial link: [Youtube](https://www.youtube.com/watch?v=NcN6vMB62L4)
+
+Autonomous experiments in the age of computing, machine learning and automation by Rama Vasudhevan
+Tutorial link: [Youtube](https://www.youtube.com/watch?v=nYlv1vNWIOE)
+
+
 
 ***
 ### Date and Time: 03-06-2022 ; 3 PM - 4 PM CST 
