@@ -10,8 +10,8 @@ The Applied AI/ML @ Scientific User Facilities (SUFs) Working Group was setup ac
 
 ## Organizing Team: 
 
-**APS**: Dennis Trujillo, Peco Myint, Yanqi (Grace) Luo and Jay Horwath
+**APS**: Dennis Trujillo, Peco Myint, Yanqi (Grace) Luo and Jay Horwath [2022-2023]
 
-**ATLAS**: Jose Martinez 
+**ATLAS**: Jose Martinez [2019-2022], Adwaith Ravichandran [2023 - Current]
 
 **Mentors**: Mathew Cherukara (APS), Brahim Mustapha (ATLAS) and Subramanian Sankaranarayanan (CNM) 
