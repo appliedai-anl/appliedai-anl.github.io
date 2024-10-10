@@ -2,6 +2,31 @@
 title: "Seminar series"
 date: 2022-02-28
 ---
+
+### Upcoming 2024 Speakers
+Victor Fung	from Georgia Institute of Technology	[Oct 21]
+Meeting link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+
+*Victor Fung comes to Georgia Tech from Oak Ridge National Laboratory where he was a Eugene P. Wigner Fellow working in the Center for Nanophase Materials Sciences (CNMS). He obtained his B.A. in Chemistry from Cornell University and his Ph.D. in Chemistry from the University of California, Riverside. His research seeks to harness the power of computing and machine learning to accelerate the chemical discovery process, with the eventual goal of fully realizing materials by inverse design. This includes developing novel methods and tools which incorporate chemical information to model phenomena at the atomic scale, as well as design new materials from the ground up, atom-by-atom. His work also involves establishing automated, data-driven and domain-informed ecosystems for materials and chemical discovery which can be deployed on the latest supercomputers.*
+
+
+***
+### 2024 List of Speakers
+Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]
+Prof. Emma Alexander	from Northwestern University	[Aug 12]
+
+***
+### 2023 List of Speakers
+Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]
+Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]
+Dr. Steven Torrisi	from Toyota Research Institute	[July 10]
+Dr. Chris Rackauckas	from Massachusetts Institute of Technology	[Aug 14]
+Dr. Sam Dillavou	from University of Pennsylvania	[Sept 18]
+Dr. Peter Lu	from University of Chicago	[Oct 23]
+Prof. Tess Smidt	Massachusetts Institute of Technology	[Nov 15]
+Prof. Aditi Krishnapriyan	from University of California, Berkeley	[Dec 11]
+
+***
 ### Date and Time: 03-06-2022 ; 3 PM - 4 PM CST 
 
 ### Title: Accelerating mesoscale predictions via surrogate models trained by machine learning methods
