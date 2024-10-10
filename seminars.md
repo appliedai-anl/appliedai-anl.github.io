@@ -1,6 +1,6 @@
 ---
 title: "Seminar series"
-date: 2022-02-28
+date: 2024-10-09
 ---
 
 ### Upcoming 2024 Speakers
@@ -12,20 +12,27 @@ Meeting link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=
 
 ***
 ### 2024 List of Speakers
-Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]
-Prof. Emma Alexander	from Northwestern University	[Aug 12]
+*Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]*
+
+*Prof. Emma Alexander	from Northwestern University	[Aug 12]*
 
 ***
 ### 2023 List of Speakers
 *Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]*
 
-Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]
-Dr. Steven Torrisi	from Toyota Research Institute	[July 10]
-Dr. Chris Rackauckas	from Massachusetts Institute of Technology	[Aug 14]
-Dr. Sam Dillavou	from University of Pennsylvania	[Sept 18]
-Dr. Peter Lu	from University of Chicago	[Oct 23]
-Prof. Tess Smidt	Massachusetts Institute of Technology	[Nov 15]
-Prof. Aditi Krishnapriyan	from University of California, Berkeley	[Dec 11]
+*Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]*
+
+*Dr. Steven Torrisi	from Toyota Research Institute	[July 10]*
+
+*Dr. Chris Rackauckas	from Massachusetts Institute of Technology	[Aug 14]*
+
+*Dr. Sam Dillavou	from University of Pennsylvania	[Sept 18]*
+
+*Dr. Peter Lu	from University of Chicago	[Oct 23]*
+
+*Prof. Tess Smidt	Massachusetts Institute of Technology	[Nov 15]*
+
+*Prof. Aditi Krishnapriyan	from University of California, Berkeley	[Dec 11]*
 
 ***
 ### Date and Time: 03-06-2022 ; 3 PM - 4 PM CST 
