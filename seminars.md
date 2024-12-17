@@ -36,10 +36,11 @@ This section will be updated soon...
 *Victor Fung currently works at Georgia Tech. Previously he worked at Oak Ridge National Laboratory where he was a Eugene P. Wigner Fellow in the Center for Nanophase Materials Sciences (CNMS). He obtained his B.A. in Chemistry from Cornell University and his Ph.D. in Chemistry from the University of California, Riverside. His research seeks to harness the power of computing and machine learning to accelerate the chemical discovery process, with the eventual goal of fully realizing materials by inverse design. This includes developing novel methods and tools which incorporate chemical information to model phenomena at the atomic scale, as well as design new materials from the ground up, atom-by-atom. His work also involves establishing automated, data-driven and domain-informed ecosystems for materials and chemical discovery which can be deployed on the latest supercomputers.*
 <br>
 <br>
-Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]
+### Speaker: Dr. Prasad Iyer	from Sandia National Laboratories	[July 29]
 <br>
 <br>
-Prof. Emma Alexander	from Northwestern University	[Aug 12]
+
+### Speaker: Prof. Emma Alexander	from Northwestern University	[Aug 12]
 
 
 ***
