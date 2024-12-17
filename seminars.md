@@ -14,6 +14,7 @@ This section will be updated soon...
 ### 2024 List of Past Speakers
 <br>
 <br>
+
 ### Title: Seeing Beyond the Blur: Imaging Black Holes with Increasingly Strong Assumptions
 ### Speaker: Prof. Katherine L. (Katie) Bouman from California Institute of Technology [Dec 17]
 
