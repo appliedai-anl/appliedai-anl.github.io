@@ -14,8 +14,8 @@ This section will be updated soon...
 ### 2024 LIST OF PAST SPEAKERS
 <br>
 
-###### Title: Seeing Beyond the Blur: Imaging Black Holes with Increasingly Strong Assumptions
-###### Speaker: Prof. Katherine L. (Katie) Bouman from California Institute of Technology [Dec 17]
+##### Title: Seeing Beyond the Blur: Imaging Black Holes with Increasingly Strong Assumptions
+##### Speaker: Prof. Katherine L. (Katie) Bouman from California Institute of Technology [Dec 17]
 
 *Katherine L. (Katie) Bouman is an associate professor in the Computing and Mathematical Sciences, Electrical Engineering, and Astronomy Departments at the California Institute of Technology. Before joining Caltech, she was a postdoctoral fellow in the Harvard-Smithsonian Center for Astrophysics. She received her Ph.D. in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT in EECS, and her bachelor's degree in Electrical Engineering from the University of Michigan.  As part of the Event Horizon Telescope Collaboration, she is co-lead of the Imaging Working Group and acted as coordinator for papers concerning the first imaging of the M87* and Sagittarius A* black holes.*
 ### Recorded video: [Youtube](https://youtu.be/DyJKAUMi6rg)
