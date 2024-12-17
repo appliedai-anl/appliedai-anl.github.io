@@ -6,13 +6,12 @@ update date: 2024-12-17
 ### Permanent Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
 
-### Upcoming 2025 Speakers
+### UPCOMING 2025 SPEAKERS
 This section will be updated soon...
 
 
 ***
-### 2024 List of Past Speakers
-<br>
+### 2024 LIST OF PAST SPEAKERS
 <br>
 
 ### Title: Seeing Beyond the Blur: Imaging Black Holes with Increasingly Strong Assumptions
@@ -44,7 +43,7 @@ Prof. Emma Alexander	from Northwestern University	[Aug 12]
 
 
 ***
-### 2023 List of Past Speakers
+### 2023 LIST OF PAST SPEAKERS
 *Dr. Zhantao Chen from SLAC National Accelerator Laboratory	[May 8]*
 
 *Prof. Pinshane Huang	from University of Illinois at Urbana-Champaign	[June 5]*
