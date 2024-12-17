@@ -25,9 +25,8 @@ Tiffany Chien from University of California, Berkeley [Nov 18]
 
 *Tiffany Chien is a PhD candidate at UC Berkeley working in Professor Laura Waller’s Computational Imaging Lab on reconstruction algorithms for motion modeling and dynamic imaging. She is currently designing dynamic reconstruction algorithms based on implicit neural representations to address experimental challenges in electron microscopy, but she is broadly interested in signal processing, optics, probability and statistics, and the careful application of machine learning to science. She also did her undergraduate studies at UC Berkeley, where she studied computer science and linguistics, and worked on both computational imaging for neuron imaging and other fun things like natural language processing.*
 ### Title: Space-time methods to address unwanted dynamics in atomic electron tomography
-
-
-
+<br>
+<br>
 Victor Fung	from Georgia Institute of Technology	[Oct 21]
 
 *Victor Fung currently works at Georgia Tech. Previously he worked at Oak Ridge National Laboratory where he was a Eugene P. Wigner Fellow in the Center for Nanophase Materials Sciences (CNMS). He obtained his B.A. in Chemistry from Cornell University and his Ph.D. in Chemistry from the University of California, Riverside. His research seeks to harness the power of computing and machine learning to accelerate the chemical discovery process, with the eventual goal of fully realizing materials by inverse design. This includes developing novel methods and tools which incorporate chemical information to model phenomena at the atomic scale, as well as design new materials from the ground up, atom-by-atom. His work also involves establishing automated, data-driven and domain-informed ecosystems for materials and chemical discovery which can be deployed on the latest supercomputers.*
