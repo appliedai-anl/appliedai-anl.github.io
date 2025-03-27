@@ -8,9 +8,9 @@ Passcode: uETYiA
 Dial in by phone
 +1 630-556-7958,,901348006# United States, Big Rock
 Find a local number
-Phone conference ID: 901 348 006#
+Phone conference ID: 901 348 006# <br>
 
-Meeting Agenda: 1) Discussions for research collaboration between members from different departments in the AI/ML space
-                2) Informal presentations of AI/ML research to a smaller audience for feedback and stimulate conversation on the topic  
+Meeting Agenda: 1) Discussions for research collaboration between members from different departments in the AI/ML space <br>
+                2) Informal presentations of AI/ML research to a smaller audience for feedback and stimulate conversation on the topic <br>  
 
 
