@@ -1,7 +1,15 @@
 ---
-title: "Tutorials"
-date: 2022-01-06
+## INFORMAL SESSIONS ARE ORGANIZED BETWEEN 3:00 PM TO 3:30 PM OF THE 1ST AND 3RD WEEKS OF EVERY MONTH
+Meeting link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWRhM2UwYTgtZDlmOS00OTMwLTljNmUtOGNjNDdhMjNlZTNj%40thread.v2/0?context=%7b%22Tid%22%3a%220cfca185-25f7-49e3-8ae7-704d5326e285%22%2c%22Oid%22%3a%229908370d-7aca-4f24-b474-6b0319afc0aa%22%7d
+Join the meeting now
+Meeting ID: 289 144 014 900
+Passcode: uETYiA
+Dial in by phone
++1 630-556-7958,,901348006# United States, Big Rock
+Find a local number
+Phone conference ID: 901 348 006#
+
+Meeting Agenda: 1) Discussions for research collaboration between members from different departments in the AI/ML space
+                2) Informal presentations of AI/ML research to a smaller audience for feedback and stimulate conversation on the topic  
 ---
 
-
-## To be updated
