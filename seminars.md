@@ -7,8 +7,10 @@ update date: 2024-12-17
 
 
 ### UPCOMING 2025 SPEAKERS
-This section will be updated soon...
+#### Title: Actionable AI for Inorganic Materials
+#### Speaker: Dr. Linda Hung  from Toyota Research Institute [May 12]
 
+*Linda Hung is a Senior Manager in the Energy & Materials Division at Toyota Research Institute, and an associate editor for the journal Digital Discovery. She obtained her PhD in applied and computational mathematics from Princeton University and has held research positions at the Ecole Polytechnique (France), the University of Illinois Chicago, and NIST before joining TRI in 2017*
 
 ***
 ### 2024 LIST OF PAST SPEAKERS
