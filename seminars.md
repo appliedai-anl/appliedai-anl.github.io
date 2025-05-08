@@ -1,6 +1,6 @@
 ---
 title: "Seminar series"
-update date: 2024-12-17
+update date: 2025-05-08
 ---
 
 ### Permanent Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
