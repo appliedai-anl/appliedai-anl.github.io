@@ -10,7 +10,7 @@ update date: 2025-07-03
 ***
 <br>
 
-### In collaboration with the Post Doctoral Society of Argonne the AI/ML Group Will be Hosting Mathworks for an Inperson Workshop on the 8th of July
+### In collaboration with the Post-Doctoral society of Argonne this AI/ML group will be hosting Mathworks for an inperson workshop on July 8th 2025
 #### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
 #### Event Registration Link: [Forms](https://forms.office.com/g/KirPgBrsi9)
 #### Topics Convered: 
