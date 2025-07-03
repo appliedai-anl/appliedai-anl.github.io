@@ -1,12 +1,38 @@
 ---
 title: "Seminar series"
-update date: 2025-05-08
+update date: 2025-07-03
 ---
 
-### Permanent Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+### Regular Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
 
-### UPCOMING 2025 SPEAKERS
+### UPCOMING EVENTS
+<br>
+
+#### In collaboration with the Post Doctoral Society of Argonne the AI/ML Group Will be Hosting Mathworks for an Inperson Workshop on the 8th of July
+### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
+#### Topics Convered: Creating AI-based reduced-order models using the Reduced Order Modeler App; Integrating trained AI models into Simulink for system-level simulation; Generating optimized C code and performing HIL tests; Hands-on workshop after the seminar to try MathWorks resources
+#### Speaker: Reece Teramoto from Mathworks 
+
+* Reece Teramoto is a Senior Application Engineer for MathWorks. He has been with MathWorks for 8 years, working with engineers and researchers in the Aerospace, Defense, and Government industries. He specializes in the areas of artificial intelligence (AI), machine learning, and data analytics, and has partnered with customers on applications using AI for image processing, signal processing, and predictive maintenance. Reece graduated with a B. CS and B. EE from the University of Portland*
+
+#### Seminar abstract:
+High-fidelity models, such as those based on FEA (Finite Element Analysis), CFD (Computational Fluid Dynamics), and CAE (Computer-Aided Engineering) models can take hours or even days to simulate, and are not suitable for all stages of development. For example, a finite element analysis model that is useful for detailed component design will be too slow to include in system-level simulations for verifying your control system or to perform system analyses that require many simulation runs. A high-fidelity model for analyzing NOx emissions will be too slow to run in real time in your embedded system.Does this mean you have to start from scratch to create faster approximations of your high-fidelity models? No, this is where reduced-order modeling (ROM) comes to the rescue. ROM is a set of computational techniques that helps you reuse your high-fidelity models to create faster-running, lower-fidelity approximations. In this session, you will learn how to create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade. Using the Simulink add-on for Reduced Order Modeling, see how you can perform a thorough design of experiments and use the resulting input-output data to train AI models using pre-configured templates of LSTMs, neural ODE, and nonlinear ARX. Learn how to integrate these AI models into your Simulink simulations for control design, Hardware-in-the-Loop (HIL) testing, or deployment to embedded systems for virtual sensor applications.
+
+#### Session Agenda:
+*•	9:00 AM – 10:00 AM: Seminar 
+o	“Create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade”
+•	10:00 AM – 11:00 AM: Hands-on Workshop 
+o	Please bring your laptop. Reece from MathWorks will help you refine your idea or revise your workflow for the topic you are interested in.
+•	11:00 AM – 11:30 AM: Open office hours
+o	An open office hour will be held to discuss general topics, including opportunities at MathWorks*
+
+
+
+***
+### 2025 LIST OF PAST SPEAKERS
+<br>
+
 #### Title: Actionable AI for Inorganic Materials
 #### Speaker: Dr. Linda Hung  from Toyota Research Institute [May 12]
 
