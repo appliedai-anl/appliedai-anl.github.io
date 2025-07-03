@@ -12,6 +12,7 @@ update date: 2025-07-03
 
 ### In collaboration with the Post-Doctoral society of Argonne this AI/ML group will be hosting Mathworks for an inperson workshop on July 8th 2025
 #### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
+#### In person event location at Argonne: #402, E110
 #### Event Registration Link: [Forms](https://forms.office.com/g/KirPgBrsi9)
 #### Topics Convered: 
 *1) Creating AI-based reduced-order models using the Reduced Order Modeler App* <br>
