@@ -33,6 +33,7 @@ Please bring your laptop. Reece from MathWorks will help you refine your idea or
 •	11:00 AM – 11:30 AM: Open office hours <br>
 An open office hour will be held to discuss general topics, including opportunities at MathWorks <br>
 <br>
+
 ***
 ### 2025 LIST OF PAST SPEAKERS
 <br>
