@@ -26,9 +26,12 @@ update date: 2025-07-03
 High-fidelity models, such as those based on FEA (Finite Element Analysis), CFD (Computational Fluid Dynamics), and CAE (Computer-Aided Engineering) models can take hours or even days to simulate, and are not suitable for all stages of development. For example, a finite element analysis model that is useful for detailed component design will be too slow to include in system-level simulations for verifying your control system or to perform system analyses that require many simulation runs. A high-fidelity model for analyzing NOx emissions will be too slow to run in real time in your embedded system.Does this mean you have to start from scratch to create faster approximations of your high-fidelity models? No, this is where reduced-order modeling (ROM) comes to the rescue. ROM is a set of computational techniques that helps you reuse your high-fidelity models to create faster-running, lower-fidelity approximations. In this session, you will learn how to create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade. Using the Simulink add-on for Reduced Order Modeling, see how you can perform a thorough design of experiments and use the resulting input-output data to train AI models using pre-configured templates of LSTMs, neural ODE, and nonlinear ARX. Learn how to integrate these AI models into your Simulink simulations for control design, Hardware-in-the-Loop (HIL) testing, or deployment to embedded systems for virtual sensor applications.
 
 #### Session Agenda:
-•	9:00 AM – 10:00 AM: Seminar “Create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade” <br>
-•	10:00 AM – 11:00 AM: Hands-on Workshop; Please bring your laptop. Reece from MathWorks will help you refine your idea or revise your workflow for the topic you are interested in <br>
-•	11:00 AM – 11:30 AM: Open office hours An open office hour will be held to discuss general topics, including opportunities at MathWorks <br>
+•	9:00 AM – 10:00 AM: Seminar <br>
+“Create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade” <br>
+•	10:00 AM – 11:00 AM: Hands-on Workshop <br>
+Please bring your laptop. Reece from MathWorks will help you refine your idea or revise your workflow for the topic you are interested in <br>
+•	11:00 AM – 11:30 AM: Open office hours <br>
+An open office hour will be held to discuss general topics, including opportunities at MathWorks <br>
 <br>
 ***
 ### 2025 LIST OF PAST SPEAKERS
