@@ -7,15 +7,17 @@ update date: 2025-07-03
 
 ***
 ### UPCOMING EVENTS
+***
 <br>
 
 ### In collaboration with the Post Doctoral Society of Argonne the AI/ML Group Will be Hosting Mathworks for an Inperson Workshop on the 8th of July
 ### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
+### Event Registration Link: [Forms](https://forms.office.com/g/KirPgBrsi9)
 #### Topics Convered: 
-*1) Creating AI-based reduced-order models using the Reduced Order Modeler App*
-*2) Integrating trained AI models into Simulink for system-level simulation*
-*3) Generating optimized C code and performing HIL tests*
-*4) Hands-on workshop after the seminar to try MathWorks resources*
+*1) Creating AI-based reduced-order models using the Reduced Order Modeler App* <br>
+*2) Integrating trained AI models into Simulink for system-level simulation* <br>
+*3) Generating optimized C code and performing HIL tests* <br>
+*4) Hands-on workshop after the seminar to try MathWorks resources* <br>
 
 #### Speaker: Reece Teramoto from Mathworks 
 *Reece Teramoto is a Senior Application Engineer for MathWorks. He has been with MathWorks for 8 years, working with engineers and researchers in the Aerospace, Defense, and Government industries. He specializes in the areas of artificial intelligence (AI), machine learning, and data analytics, and has partnered with customers on applications using AI for image processing, signal processing, and predictive maintenance. Reece graduated with a B. CS and B. EE from the University of Portland*
@@ -27,7 +29,7 @@ High-fidelity models, such as those based on FEA (Finite Element Analysis), CFD 
 •	9:00 AM – 10:00 AM: Seminar “Create AI-based reduced order models to replace the complex high-fidelity model of a jet engine blade” <br>
 •	10:00 AM – 11:00 AM: Hands-on Workshop; Please bring your laptop. Reece from MathWorks will help you refine your idea or revise your workflow for the topic you are interested in <br>
 •	11:00 AM – 11:30 AM: Open office hours An open office hour will be held to discuss general topics, including opportunities at MathWorks <br>
-
+<br>
 ***
 ### 2025 LIST OF PAST SPEAKERS
 <br>
