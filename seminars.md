@@ -1,18 +1,17 @@
 ---
-title: "Seminar Series/Workshop"
+title: "Seminar Series/ Workshop"
 update date: 2025-07-03
 ---
-
 ### Regular Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
-
+<br>
 ***
 ### UPCOMING EVENTS
 ***
 <br>
 
 ### In collaboration with the Post Doctoral Society of Argonne the AI/ML Group Will be Hosting Mathworks for an Inperson Workshop on the 8th of July
-### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
-### Event Registration Link: [Forms](https://forms.office.com/g/KirPgBrsi9)
+#### This will be a hybrid event. Event Link: [Teams](https://bit.ly/3T6JYW4)
+#### Event Registration Link: [Forms](https://forms.office.com/g/KirPgBrsi9)
 #### Topics Convered: 
 *1) Creating AI-based reduced-order models using the Reduced Order Modeler App* <br>
 *2) Integrating trained AI models into Simulink for system-level simulation* <br>
