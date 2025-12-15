@@ -58,23 +58,24 @@ An open office hour will be held to discuss general topics, including opportunit
 
 *Alok Kamatar is a 4th year Ph.D. student at the University of Chicago advised by Ian Foster and Kyle Chard. Broadly, he is interested in building systems to enable faster and more efficient science. He is currently working on building Academy: a framework for integrating "Agents" with federated research infrastructure and exploring the associated systems challenges.*
 <br>
+<br>
 #### Title: Accelerating Materials Discovery via Generative AI
 #### Speaker: Dr. Avanish Mishra,Theoretical Division (T-1),Los Alamos National Laboratory
 
 *Avanish Mishra is a Staff Scientist in the Physics and Chemistry of Materials Group within the Theoretical Division at Los Alamos National Laboratory. His research focuses on developing materials-centric machine learning models, generative AI, and autonomous agents to accelerate materials discovery. He also investigates quantum advantage and utility estimation for quantum chemistry and materials applications. Dr. Mishra co-developed the aNANt materials database, contributed to the JARVIS-Leaderboard platform and the URSA agentic workflow, and created virtual characterization tools to augment experimental investigations. He earned his Ph.D. in Materials Science, with a specialization in materials modeling and informatics, from the Indian Institute of Science, Bangalore, in 2019. Following this, he completed a postdoctoral fellowship at the University of Connecticut. In 2022, he joined Los Alamos as a Director’s Postdoctoral Fellow before transitioning to his current staff position.*
 <br>
-
+<br>
 #### Title: Edge Computing for Scientific Instruments: Towards Real-Time and AI-ready Discovery
 #### Speaker: Denis Leshchev, Senior Application Engineer, NVIDIA
 
 *TALK ABSTRACT: Next-generation scientific instruments generate vast amounts of data at increasingly higher rates, outpacing traditional data management that relies on large-scale transfers to offline storage for post-analysis. To address the needs of the scientific experiments of the future, the instruments must be augmented with computational resources that make them autonomous and intelligent, thus boosting speed, efficiency, and impact of scientific discovery. This talk will showcase NVIDIA’s advancements in enabling real-time data processing and AI inferencing at scientific instruments through integration with edge computing. We will present examples of pipelines across several scientific domains, with a particular focus on synchrotron ptychographic nanoimaging, and highlight how these developments pave the way for autonomous experiments performed at machine speeds.*
 <br>
-
+<br>
 #### Title: Actionable AI for Inorganic Materials
 #### Speaker: Dr. Linda Hung  from Toyota Research Institute [May 12]
 
 *Linda Hung is a Senior Manager in the Energy & Materials Division at Toyota Research Institute, and an associate editor for the journal Digital Discovery. She obtained her PhD in applied and computational mathematics from Princeton University and has held research positions at the Ecole Polytechnique (France), the University of Illinois Chicago, and NIST before joining TRI in 2017*
-
+<br>
 ***
 ### 2024 LIST OF PAST SPEAKERS
 <br>
