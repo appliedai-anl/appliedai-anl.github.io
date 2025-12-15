@@ -14,6 +14,6 @@ The Applied AI/ML @ Scientific User Facilities (SUFs) Working Group was setup ac
 
 **Center for NanoScience and Materials** Abhishek Aggarwal [2024-Present]
 
-**Argonne Tandem Linear Accelerator**: Ravichandran Adwaith [2023 - Current], Jose Martinez [2021 - 2023]
+**Argonne Tandem Linear Accelerator**: Adwaith Ravichandran [2023 - Current], Jose Martinez [2021 - 2023]
 
 **Mentors**: Mathew Cherukara (APS), Brahim Mustapha (ATLAS) and Subramanian Sankaranarayanan (CNM) 
