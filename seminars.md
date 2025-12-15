@@ -5,8 +5,21 @@ update date: 12-15-2025
 ### Regularly Updated Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWVjMjlhZjQtM2E5NS00OWMyLWFkOGQtNzFkYjg0NDE3Y2Nk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522aa97ad87-86b8-46be-8906-cbcfaddc3f7c%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=4d3aef04-2e8e-4b1a-b6ba-620408036986&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 <br>
 
+
 ***
-### UPCOMING EVENTS
+### UPCOMING SEMINAR
+***
+<br>
+#### Title: Building Reliable Large Language Models for Scientific Research
+#### Speaker: Dr. Feng Yunhe (Jack) Assistant Professor, CSE, University of North Texas [Dec 15]
+
+*Abstract: This talk will examine the opportunities and risks of deploying LLMs as tools for scientific discovery in fields such as earth science, biology, and clinical healthcare. I will first give a concise overview of how modern LLMs are built and where their “knowledge” comes from, emphasizing why their statistical nature makes reliability a central concern for scientific use. The core of the talk will focus on three technical aspects that critically shape trustworthiness: hallucinations, bias, and fine‑tuning. I will discuss how and why LLMs hallucinate in scientific tasks and workflows, and how domain‑specific fine‑tuning can both improve and undermine reliability. Throughout, I will highlight practical mitigation strategies—such as retrieval‑augmented generation, tool‑integrated workflows, structured outputs, and rigorous evaluation protocols (e.g., treating LLMs as “research assistants” rather than oracles). I will conclude with concrete design patterns and evaluation practices that laboratories can adopt to use LLMs responsibly, ensuring they act as calibrated, auditable instruments that accelerate discovery without compromising scientific rigor. *
+
+*Dr. Yunhe Jack Feng is an Assistant Professor in the Department of Computer Science and Engineering (CSE) at UNT. He directs the Responsible AI Lab and directs the Master's Program in Artificial Intelligence. His research interests lie at the intersection of Efficient Generative AI, AI Security & Privacy, and Responsible AI, with a focus on developing robust and efficient AI systems. Dr. Feng's research is supported by grants from the NSF, NIH, DOE, as well as industry collaborations with Microsoft, Google, and NVIDIA. He is the recipient of the 2023 IEEE Smart Computing Special Technical Community Early Career Award and was named to the inaugural Dallas Innovates AI 75 List. His work is published in top conferences and journals such as ACL, EMNLP, AAAI, CVPR, ICCV, IJCAI, USENIX Security, and HPDC. In 2025, Dr. Feng received the CSE Department Teaching Excellence Award and Affiliate Faculty of the Year Award from Data Science Department. *
+
+
+***
+### PAST EVENTS
 ***
 <br>
 
@@ -39,6 +52,11 @@ An open office hour will be held to discuss general topics, including opportunit
 ### 2025 LIST OF PAST SPEAKERS
 <br>
 
+#### Title: Accelerating Materials Discovery via Generative AI
+#### Speaker: Dr. Avanish Mishra,Theoretical Division (T-1),Los Alamos National Laboratory
+
+*Avanish Mishra is a Staff Scientist in the Physics and Chemistry of Materials Group within the Theoretical Division at Los Alamos National Laboratory. His research focuses on developing materials-centric machine learning models, generative AI, and autonomous agents to accelerate materials discovery. He also investigates quantum advantage and utility estimation for quantum chemistry and materials applications. Dr. Mishra co-developed the aNANt materials database, contributed to the JARVIS-Leaderboard platform and the URSA agentic workflow, and created virtual characterization tools to augment experimental investigations. He earned his Ph.D. in Materials Science, with a specialization in materials modeling and informatics, from the Indian Institute of Science, Bangalore, in 2019. Following this, he completed a postdoctoral fellowship at the University of Connecticut. In 2022, he joined Los Alamos as a Director’s Postdoctoral Fellow before transitioning to his current staff position.*
+<br>
 #### Title: Actionable AI for Inorganic Materials
 #### Speaker: Dr. Linda Hung  from Toyota Research Institute [May 12]
 
