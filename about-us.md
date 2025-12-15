@@ -1,6 +1,6 @@
 ---
 title: "About us"
-date: 2024-10-09
+date: 2025-12-15
 ---
 
 ## Description:
@@ -10,10 +10,10 @@ The Applied AI/ML @ Scientific User Facilities (SUFs) Working Group was setup ac
 
 ## Organizing Team: 
 
-**APS**: Dennis Trujillo, Peco Myint, Yanqi (Grace) Luo and Jay Horwath [2022-2023]
+**Advanced Photon Source/X-Ray Science Division**: Aileen Luo [2024-Present], Andrejevic Nina [2022 - 2024], Vriza Aikaterini [2022 - 2024], Jay Horwath [2022-2023], Dennis Trujillo, Peco Myint and Yanqi (Grace) Luo
 
-**CNM** Andrejevic Nina [2022 - Current], Vriza Aikaterini [2022 - Current]
+**Center for NanoScience and Materials** Abhishek Aggarwal [2024-Present]
 
-**ATLAS**: Jose Martinez [2022 - 2023], Ravichandran Adwaith [2023 - Current]
+**Argonne Tandem Linear Accelerator**: Ravichandran Adwaith [2023 - Current], Jose Martinez [2021 - 2023]
 
 **Mentors**: Mathew Cherukara (APS), Brahim Mustapha (ATLAS) and Subramanian Sankaranarayanan (CNM) 
