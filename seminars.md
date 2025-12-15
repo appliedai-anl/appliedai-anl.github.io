@@ -1,8 +1,8 @@
 ---
 title: "Seminar Series/ Workshop"
-update date: 2025-07-03
+update date: 12-15-2025
 ---
-### Regular Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDE5MmRjOTYtNjUzYS00ZTFhLThjZmEtODFlMTFkMDgwMjNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522a7cdf138-455e-41ef-b7b1-be6d67adaf95%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=0ce57ce1-af5e-4ea8-bdfc-df77a9764860&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+### Regularly Updated Seminar link: [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWVjMjlhZjQtM2E5NS00OWMyLWFkOGQtNzFkYjg0NDE3Y2Nk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220cfca185-25f7-49e3-8ae7-704d5326e285%2522%252c%2522Oid%2522%253a%2522aa97ad87-86b8-46be-8906-cbcfaddc3f7c%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=4d3aef04-2e8e-4b1a-b6ba-620408036986&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 <br>
 
 ***
